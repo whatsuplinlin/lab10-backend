@@ -9,7 +9,6 @@ import se331.rest.entity.Event;
 import se331.rest.entity.Organizer;
 
 import javax.transaction.Transactional;
-import java.util.List;
 
 @Service
 public class EventServiceImpl implements EventService {
